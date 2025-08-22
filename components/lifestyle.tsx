@@ -82,7 +82,7 @@ export default function Gallery() {
             transition={{ duration: 0.7 }}
             className=" flex-1/2 rounded-2xl"
           >
-            <img src="/3.jpg" alt="" className=" rounded-2xl shadow-2xl" />
+            <img src="/F1.jpg" alt="" className=" rounded-2xl shadow-2xl" />
           </motion.h2>
           <div className="flex-1/2">
             <motion.p
@@ -127,7 +127,7 @@ export default function Gallery() {
             transition={{ duration: 0.7 }}
             className=" flex-1/2 "
           >
-            <img src="/3.jpg" alt="" className=" rounded-2xl shadow-2xl" />
+            <img src="/F2.jpg" alt="" className=" rounded-2xl shadow-2xl" />
           </motion.h2>
         </div>
       </section>
