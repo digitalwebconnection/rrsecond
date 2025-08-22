@@ -118,10 +118,10 @@ export default function PlotsPage() {
             Flexible sizes, prime location, and unmatched lifestyle. Book your visit now!
           </p>
           <motion.a
-            href="/contact"
             whileHover={{ scale: 1.05 }}
             whileTap={{ scale: 0.95 }}
             className="px-8 py-4 bg-amber-900 text-white hover:bg-gray-800 font-semibold rounded-xl shadow-lg transition"
+            
           >
             Book a Site Visit
           </motion.a>

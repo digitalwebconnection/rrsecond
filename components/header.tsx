@@ -45,11 +45,11 @@ export function Header() {
           </nav>
 
           {/* CTA Button (Desktop) */}
-          <div className="hidden md:block">
+          {/* <div className="hidden md:block">
             <Button className="bg-primary text-primary-foreground hover:bg-primary/90">
               Get Free Consultation
             </Button>
-          </div>
+          </div> */}
 
           {/* Mobile Menu Button */}
           <div className="md:hidden">
