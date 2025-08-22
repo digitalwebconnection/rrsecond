@@ -80,9 +80,9 @@ export default function Gallery() {
             whileInView={{ opacity: 1, y: 0 }}
             viewport={{ once: true }}
             transition={{ duration: 0.7 }}
-            className=" flex-1/2 rounded-2xl"
+            className=" flex-1/2 rounded-2xl h-100 w-150"
           >
-            <img src="/F1.jpg" alt="" className=" rounded-2xl shadow-2xl" />
+            <img src="/F1.jpg" alt="" className=" rounded-2xl shadow-2xl h-full w-full" />
           </motion.h2>
           <div className="flex-1/2">
             <motion.p
@@ -125,9 +125,9 @@ export default function Gallery() {
             whileInView={{ opacity: 1, y: 0 }}
             viewport={{ once: true }}
             transition={{ duration: 0.7 }}
-            className=" flex-1/2 "
+            className=" flex-1/2 h-120 w-150 "
           >
-            <img src="/F2.jpg" alt="" className=" rounded-2xl shadow-2xl" />
+            <img src="/F2.jpg" alt="" className=" rounded-2xl shadow-2xl h-full w-full" />
           </motion.h2>
         </div>
       </section>
