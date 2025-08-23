@@ -25,16 +25,7 @@ export function Footer() {
               <a href="tel:+917211161521" className="font-semibold hover:underline hover:text-amber-300">
                 +91 7211161521
               </a>
-              <br />
-              🌐{" "}
-              <a
-                href="https://everlandmankol.com"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="underline hover:text-amber-300"
-              >
-                everlandmankol.com
-              </a>
+              
             </p>
 
             <div className="flex space-x-4 mt-4">

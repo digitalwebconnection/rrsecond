@@ -186,33 +186,9 @@ export function ContactForm() {
                 </div>
               </div>
 
-              <div className="flex items-center">
-                <div className="flex items-center justify-center w-12 h-12 bg-[#6D9F71]/20 rounded-full mr-4">
-                  <Mail className="w-6 h-6 text-[#6D9F71]" />
-                </div>
-                <div>
-                  <div className="font-medium text-[#4E342E]">Email</div>
-                  <div className="text-[#6D4C41]">
-                    <a href="mailto:info@everlandplots.com" onClick={() => onInfoClick("email")}>
-                      info@everlandplots.com
-                    </a>
-                  </div>
-                </div>
-              </div>
+              
 
-              <div className="flex items-center">
-                <div className="flex items-center justify-center w-12 h-12 bg-[#6D9F71]/20 rounded-full mr-4">
-                  <MapPin className="w-6 h-6 text-[#6D9F71]" />
-                </div>
-                <div>
-                  <div className="font-medium text-[#4E342E]">Office</div>
-                  <div className="text-[#6D4C41]">
-                    Everland Plots Office
-                    <br />
-                    Ahmedabad, Gujarat
-                  </div>
-                </div>
-              </div>
+             
             </div>
 
             <div className="bg-[#E6DCD0] p-6 rounded-xl shadow-md">

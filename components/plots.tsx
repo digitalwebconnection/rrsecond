@@ -12,7 +12,7 @@ declare global {
 }
 
 const plots = [
-  { phase: "Option #1", size: "300 sq. yards", desc: "Perfect for compact yet spacious living", status: "Available", statusColor: "bg-green-600" },
+  { phase: "Option #1", size: "400 sq. yards", desc: "Perfect for compact yet spacious living", status: "Available", statusColor: "bg-green-600" },
   { phase: "Option #2", size: "500–700 sq. yards", desc: "Ideal for family homes with garden space", status: "Available", statusColor: "bg-green-600" },
   { phase: "Option #3", size: "1000–1300 sq. yards", desc: "Premium choice for luxury living", status: "Booking Fast", statusColor: "bg-yellow-500" },
   { phase: "Option #4", size: "Above 1300 sq. yards", desc: "Exclusive plots for ultra-premium lifestyle", status: "Limited", statusColor: "bg-red-600" },

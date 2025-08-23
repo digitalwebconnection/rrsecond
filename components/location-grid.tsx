@@ -20,13 +20,13 @@ export default function WhyChooseEverland() {
             {/* Google Map */}
             <div className="rounded-2xl overflow-hidden shadow-lg border border-green-200">
               <iframe
-                src={"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3680.523157382406!2d72.5714!3d22.9999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMjLCsDU5JzU5LjciTiA3MsKwMzQnMTYuOSJF!5e0!3m2!1sen!2sin!4v1694511111111"}
+                src={"https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d6986.634746239896!2d72.2635!3d22.907421!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x395ebceb8e1bfbfd%3A0x548a2a43be8297f1!2sMankol%20Kabaddi%20Club!5e1!3m2!1sen!2sin!4v1755929792367!5m2!1sen!2sin"}
                 width="100%"
                 height="400"
                 style={{ border: 0 }}
                 allowFullScreen={true}
                 loading="lazy"
-                className="w-full"
+                className="w-full shadow-2xl"
               ></iframe>
             </div>
 

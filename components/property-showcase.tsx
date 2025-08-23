@@ -36,7 +36,7 @@ export function AboutScheme() {
           </p>
 
           <p className="mt-6 text-lg md:text-xl text-gray-700 max-w-3xl mx-auto leading-relaxed">
-            અહીં તમને મળશે <span className="text-yellow-700 font-semibold">300 sq. yards</span> થી લઈને{" "}
+            અહીં તમને મળશે <span className="text-yellow-700 font-semibold">400 sq. yards</span> થી લઈને{" "}
             <span className="text-yellow-700 font-semibold">1300 sq. yards</span> સુધીના અને તેનાથી પણ મોટા
             પ્લોટ્સ – તમારા સપનાના ઘર માટે perfect જગ્યા.
           </p>

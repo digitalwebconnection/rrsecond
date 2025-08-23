@@ -119,7 +119,7 @@ export default function HeroSlider() {
         {/* Slide 1 */}
         <SwiperSlide>
           <Image
-            src="/view-land-plot-real-estate-business-development.jpg"
+            src="https://arvindnewlaunchmankol.com/img/webp/b1-1400w.webp"
             alt="Greenfield Plot 1"
             fill
             className="object-cover"
@@ -140,7 +140,7 @@ export default function HeroSlider() {
         {/* Slide 3 */}
         <SwiperSlide>
           <Image
-            src="/aerial-view-agricultural-land-division-property-lines-farmland-planning-rural-landscape.jpg"
+            src="https://arvindnewlaunchmankol.com/img/webp/b4-1400w.webp"
             alt="Greenfield Plot 3"
             fill
             className="object-cover"
@@ -151,7 +151,7 @@ export default function HeroSlider() {
       {/* Content Overlay */}
       <div className="absolute top-0 left-0 w-[420px] z-30 h-full bg-black/80 text-white p-8 flex flex-col justify-center rounded-2xl mt-20 ms-20">
         <h1 className="text-4xl font-bold mb-4 leading-snug">
-          Everland Mankol – <br /> Limited Plots, Unlimited Happiness
+          ARVIND EVERLAND <br />OF THE PROPERTY
         </h1>
 
         <p className="mb-6 text-lg font-medium text-green-300">
